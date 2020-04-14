@@ -4,7 +4,7 @@
 
 A repository contains some of the activation functions used in ML implemented in C
 
-Activation functions are the functions used in CNN's - a type of Neural Networks for finding out which neuron to fire and e=which not to.
+Activation functions are the functions used in CNN's - a type of Neural Networks for finding out which neuron to fire and which not to.
 
 This repository as of now contains ReLU and Sigmoid functions.
 
